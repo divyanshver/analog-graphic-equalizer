@@ -43,6 +43,7 @@ Component values were calculated using standard band-pass filter design equation
 ![Bode Plot of Graphic Equalizer](Results/bode_plot.png)
 ### LTspice Schematic
 ![LTspice Graphic Equalizer Schematic](Circuit/ltspice_schematic.png)
+MATLAB was used for analysis and plotting of frequency response data obtained from LTspice simulations.
 
 
 ## 🔌 Hardware Implementation
