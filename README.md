@@ -41,6 +41,8 @@ Component values were calculated using standard band-pass filter design equation
 - MATLAB used for magnitude response plotting
 - ### Bode Plot (AC Analysis)
 ![Bode Plot of Graphic Equalizer](Results/bode_plot.png)
+### LTspice Schematic
+![LTspice Graphic Equalizer Schematic](Circuit/ltspice_schematic.png)
 
 
 ## 🔌 Hardware Implementation
