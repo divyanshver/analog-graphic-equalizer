@@ -39,6 +39,9 @@ Component values were calculated using standard band-pass filter design equation
 - AC analysis performed to obtain Bode plots
 - Individual and combined frequency responses verified
 - MATLAB used for magnitude response plotting
+- ### Bode Plot (AC Analysis)
+![Bode Plot of Graphic Equalizer](Results/bode_plot.png)
+
 
 ## 🔌 Hardware Implementation
 The complete circuit was implemented on a breadboard using discrete components and operational amplifiers.
