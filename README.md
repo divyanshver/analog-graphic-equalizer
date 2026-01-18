@@ -67,3 +67,8 @@ The oscillator output and equalizer response were observed using a CRO to verify
 
 - ## 📄 Documentation
 Detailed calculations, derivations, simulation results, and hardware images are available in the Documentation folder.
+Project Report:  
+https://github.com/divyanshver/analog-graphic-equalizer/blob/main/Documentation/Graphic_Equalizer_Report.pdf
+
+
+
